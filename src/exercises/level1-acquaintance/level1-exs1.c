@@ -18,7 +18,7 @@ int main() {
     // Doing some work
     for (size_t i = 0; i < 5; i++) {
         if (i) {
-            printf("element  %zu is %g, \tits   square  is %g\n",
+            printf("element %zu is %g, \tits square is %g\n",
             i,
             A[i],
             A[i]*A[i]);
