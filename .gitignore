@@ -1,2 +1,5 @@
 #Ignore compiled executables.
 *.exe
+
+#Ingore vscode
+.vscode/

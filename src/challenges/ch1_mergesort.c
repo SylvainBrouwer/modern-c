@@ -3,6 +3,7 @@ Modern C challenge 1 part 1: Merge sort.
 I've chosen ints, but the process should be the same for floats / doubles
 */
 #include <stdio.h>
+#include <stddef.h>
 
 // Function declarations
 void mergeSort(int list[], size_t l , size_t r);
@@ -45,7 +46,6 @@ void merge(int list[], size_t l, size_t r, size_t mid) {
         if (L[i] <= R[j]) {
             list[k] = L[i];
             i++;
-
         } else {
             list[k] = R[j];
             j++;
@@ -64,7 +64,6 @@ void merge(int list[], size_t l, size_t r, size_t mid) {
         j++;
         k++;
     }
-
 }
 
 void mergeSort(int list[], size_t l, size_t r) {
