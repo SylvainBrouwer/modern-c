@@ -32,7 +32,7 @@ int partition(int list[], int l, int r) {
     int i = l;
     int j = r;
 
-    // Swap elements to correct side of.
+    // Swap elements pointed to if left larger than pivot and right smaller than pivot.
     while (i < j) {
         while (list[i] <= pivot && i < r) {
             i++;
