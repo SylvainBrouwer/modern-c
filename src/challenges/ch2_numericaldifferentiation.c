@@ -2,7 +2,7 @@
 Modern C challenge 2: numerical differentiation.
 Note: I have not given an explicit double F(double x),
 f takes in a function pointer allowing us to pass arbitrary functions.
-(As long as they take a single double argument and return a double)
+(As long as they take a single double argument and returns a double)
 */
 #include <stdio.h>
 #include <math.h>
