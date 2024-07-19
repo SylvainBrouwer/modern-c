@@ -6,20 +6,7 @@ The book numbers exercises accoring to the footnote number, this leads to incons
 I will provide an overview of skipped numbers (and other notes) here.
 
 Level 0: Encounter
-- Exercise 1 does not exist.
-- Exercise 2 does not exist.
-- Exercise 4 does not exist.
-- Exercise 8 does not exist.
+- Exercises 1, 2, 4 and 8 do not exist.
 
 Level 1: Acquaintance
-- Exercise 3 does not exist.
-- Exercise 9 does not exist.
-- Exercise 10 does not exist.
-- Exercise 11 does not exist.
-- Exercise 12 does not exist.
-- Exercise 16 does not exist.
-- Exercise 18 does not exist.
-- Exercise 19 does not exist.
-- Exercise 20 does not exist.
-- Exercise 29 does not exist.
-- Exercise 37 does not exist.
+- Exercises 3, 9, 10, 11, 12, 16, 18, 19, 20, 29, 37, 38, 39, 40 do not exist.
