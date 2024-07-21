@@ -22,7 +22,7 @@ int main() {
 // Leibniz approximation of pi.
 double leibniz(int terms) {
     double quarter_pi = 0;
-    for(int i = 0; i < terms; i++) {
+    for (int i = 0; i < terms; i++) {
         double term = (double) 1/(2*i + 1);
         if (i%2) {
             quarter_pi -= term;

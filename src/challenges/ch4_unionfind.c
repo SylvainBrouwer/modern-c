@@ -50,11 +50,11 @@ size_t find(size_t parent[], size_t index) {
 // Set all entries on path to root to "value"
 void findReplace(size_t parent[], size_t index, size_t value) {
     size_t i = index;
-    do{
+    do {
         size_t p = parent[i];
         parent[i] = value;
         i = p;
-    } while(i != SIZE_MAX);
+    } while (i != SIZE_MAX);
 }
 
 

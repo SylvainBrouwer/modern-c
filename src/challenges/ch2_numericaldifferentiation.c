@@ -17,7 +17,7 @@ int main() {
     double h = 0.001;
 
     // Numerical differentiation + comparison for sqrt
-    for (int i =0; i<8; i++){
+    for (int i =0; i<8; i++) {
         printf("F(%f) = sqrt(%f) = %f | ", x[i], x[i], sqrt(x[i]));
         printf("calculated f(%f): %f | ", x[i], f(&sqrt, x[i], h));
         printf("true f(%f): %f\n", x[i], diff_sqrt(x[i]));
@@ -25,7 +25,7 @@ int main() {
 
     printf("\n\n");
     // Numerical differentiation + comparison for sin
-    for (int i =0; i<8; i++){
+    for (int i =0; i<8; i++) {
         printf("F(%f) = sqrt(%f) = %f | ", x[i], x[i], sin(x[i]));
         printf("calculated f(%f): %f | ", x[i], f(&sin, x[i], h));
         printf("true f(%f): %f\n", x[i], diff_sin(x[i]));
