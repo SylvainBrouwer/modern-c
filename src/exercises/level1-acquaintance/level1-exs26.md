@@ -1,3 +1,5 @@
+### Exercise 26
+
 Q: Show that ~B can be computed by V - B.
 
 A:

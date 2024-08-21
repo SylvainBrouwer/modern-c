@@ -1,3 +1,5 @@
+### Exercise 27
+
 Q: Show that -B = ~B + 1.
 
 A:

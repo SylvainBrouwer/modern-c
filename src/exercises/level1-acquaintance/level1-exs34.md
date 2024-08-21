@@ -1,3 +1,5 @@
+### Exercise 34
+
 Q: If they exist, the values of all these macros are prescribed by the properties of the types. Think of a closed formulas in N for these values.
 
 A:

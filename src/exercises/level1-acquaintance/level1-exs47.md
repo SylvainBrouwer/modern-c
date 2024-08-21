@@ -1,5 +1,6 @@
-Q: Prove equation (14). $T_{fibCache(n)} = n \times C_3$
+### Exercise 47
 
+Q: Prove equation (14). $T_{fibCache(n)} = n \times C_3$
 
 A: 
 Technically not the case as n=1 and n=2 have a different constant C0.

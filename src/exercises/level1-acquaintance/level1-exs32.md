@@ -1,3 +1,5 @@
+### Exercise 32
+
 Q: Prove that for unsigned arithmetic, A + (~A + 1) == 0.
 
 A:
