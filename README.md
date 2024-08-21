@@ -10,3 +10,6 @@ Level 0: Encounter
 
 Level 1: Acquaintance
 - Exercises 3, 9, 10, 11, 12, 16, 18, 19, 20, 29, 37, 38, 39, 40, 44, and 58 do not exist.
+
+Level 2: Cognition
+- Exercises 1, 2 do not exist.
