@@ -12,4 +12,4 @@ Level 1: Acquaintance
 - Exercises 3, 9, 10, 11, 12, 16, 18, 19, 20, 29, 37, 38, 39, 40, 44, and 58 do not exist.
 
 Level 2: Cognition
-- Exercises 1, 2, 5, 6, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 26, 27 do not exist.
+- Exercises 1, 2, 5, 6, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 26, 27, 28 do not exist.
